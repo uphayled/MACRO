@@ -1,0 +1,9 @@
+﻿VERSION BUILD=8340723 RECORDER=CR
+URL GOTO=http://eggcave.com/exchange
+TAG POS=1 TYPE=INPUT:BUTTON ATTR=ID:btn_refresh
+TAG POS=2 TYPE=a ATTR=class:"clickable_link"
+wait seconds=1
+TAG POS=1 TYPE=INPUT:BUTTON ATTR=ID:feed_button
+TAB CLOSE
+TAB T=1
+refresh
