@@ -1,5 +1,5 @@
 ﻿SET !TIMEOUT_STEP 1
 SET !ERRORIGNORE YES
 VERSION BUILD=8340723 RECORDER=CR
-URL GOTO=http://eggcave.com/cove
+URL GOTO=http://eggcave.com/strongroom/bank
 TAG POS=1 TYPE=A ATTR=ID:find-the-gobbler-link
